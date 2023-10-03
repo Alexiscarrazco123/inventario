@@ -1,1 +1,1 @@
-# inventario
+# producto
